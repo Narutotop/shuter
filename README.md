@@ -1,1 +1,1 @@
-# shuter
+# shooter
